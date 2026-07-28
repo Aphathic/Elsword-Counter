@@ -1,5 +1,9 @@
 # How to run
 
+Easiest way on Windows:
+- Right click `run_counter.bat` and use **Run as administrator**.
+- The batch file checks for Python, installs it if missing, then installs requirements automatically.
+
 To run the script the best way is use an IDE with Python installed on it (suggest VSCode) and just run the IDE as Administrator
 
 Another way is to use the file straight up as you see it, by just having Python installed on your machine, YOU WILL STILL NEED TO RUN AS ADMINISTRATOR
